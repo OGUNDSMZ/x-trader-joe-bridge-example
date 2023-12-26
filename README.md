@@ -1,4 +1,4 @@
-# Trader Joe Bridge Example
+I wish you continued success, I'm following you, friends. # Trader Joe Bridge Example
 
 This is an example implementation of the Trader Joe Bridge using the @layerzerolabs/x-trader-joe-bridge package.
 
